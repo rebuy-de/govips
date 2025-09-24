@@ -1,4 +1,4 @@
-module github.com/davidbyttow/govips/v2
+module github.com/rebuy-de/govips/v2
 
 go 1.23.0
 

@@ -14,4 +14,4 @@ RUN apt-get -y --no-install-recommends install ca-certificates
 RUN apt-get -y --no-install-recommends install lsb-release
 RUN apt-get -y install --no-install-recommends libvips-dev
 RUN mkdir -p ~/go/src/github.com/davidbyttow
-RUN cd ~/go/src/github.com/davidbyttow  && git clone -v https://github.com/davidbyttow/govips.git
+RUN cd ~/go/src/github.com/davidbyttow  && git clone -v https://github.com/rebuy-de/govips.git
